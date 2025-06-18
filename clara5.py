@@ -1,3 +1,4 @@
+import matplotlib; matplotlib.use('Agg')
 import streamlit as st
 import matplotlib.pyplot as plt
 import re
